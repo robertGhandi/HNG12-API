@@ -34,7 +34,7 @@ This is a simple Express.js API that serves a homepage route with JSON response 
 ### Base URL
 
 ```
-http://localhost:3000/api/v1/books
+https://hng-12-api.vercel.app/
 ```
 
 ### 1. **Home Route**
